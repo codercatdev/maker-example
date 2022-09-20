@@ -1,10 +1,28 @@
-<style>
-div.layout.svelte-1mi2fgi{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr;grid-template-areas:". .";align-items:center;justify-items:center;gap:36px}@media (max-width: 1024px){div.layout.svelte-1mi2fgi{grid-template-columns:1fr;grid-template-areas:"."}}
-</style>
-<style>
-  figure.svelte-kwk3gn.svelte-kwk3gn{min-height:365px;margin:0;transform:translateZ(0)}figure.svelte-kwk3gn img.svelte-kwk3gn{height:350px;width:auto}@media (max-width: 1024px){figure.svelte-kwk3gn img.svelte-kwk3gn{height:auto;width:90vw}}.gradient.svelte-kwk3gn.svelte-kwk3gn{position:absolute;width:792px;height:310px;background:linear-gradient(90deg,rgba(100,227,255,.7) 0%,rgba(145,146,255,.7) 100%);opacity:.35;z-index:-1;top:calc(50% - 150px);left:50%;filter:blur(150px)}@media (max-width: 1024px){.gradient.svelte-kwk3gn.svelte-kwk3gn{display:none}}.gradient.top.svelte-kwk3gn.svelte-kwk3gn{top:calc(25% - 150px)}button.svelte-euui9f{font-family:Inter,sans-serif;font-weight:600;font-size:16px;line-height:150%;color:#fff;width:100%;box-sizing:border-box;background:#da1a5b;border:1px solid #da1a5b;border-radius:4px;padding:12px;margin-top:36px}article.svelte-1ahg0de{z-index:10;background:#1b1b28;border:1px solid #282a3b;box-shadow:0 16px 32px #373b4d05;border-radius:16px;padding:36px;display:grid}@media (max-width: 1024px){article.svelte-1ahg0de{margin:36px 0}}article.full.svelte-1ahg0de{grid-template-columns:1fr 1fr;grid-template-rows:1fr;grid-template-areas:". .";gap:64px}@media (max-width: 1024px){article.full.svelte-1ahg0de{grid-template-columns:1fr;grid-template-areas:"."}}h2.svelte-v4w3mo{font-weight:700;font-size:36px;line-height:150%;color:#fcfcff}p.svelte-v4w3mo{font-size:16px;line-height:150%;font-weight:400}form.svelte-v4w3mo{margin-top:42px}input.svelte-v4w3mo{font-family:Poppins,sans-serif;display:block;box-sizing:border-box;width:100%;height:40px;background:#171723;border:1px solid #373b4d;border-radius:4px;padding:12px;color:#e8e9f0}
-</style>
-<main class="svelte-12ravdr"><div class="container svelte-12ravdr"> <div class="layout svelte-1mi2fgi"><article class="svelte-1ahg0de"><div><h2 class="svelte-v4w3mo">Create Your Maker Card</h2> <p class="svelte-v4w3mo">It doesn't matter if you've submitted a pull request, shared your frustration or love of our
-			product, or recommended us to your peers, you all helped Appwrite reach this major milestone.
-			This is why we want to list any of our community members who are interested along side our
-			core team as makers.</p></div> <form class="svelte-v4w3mo"><label for="github">GitHub Username</label> <input name="github" type="text" placeholder="Enter your GitHub Username" autocomplete="off" class="svelte-v4w3mo" required=""> <button type="submit" class="svelte-euui9f">Create your maker card</button></form></article>  <figure class="svelte-kwk3gn"><img id="maker" src="./image.png" alt="GitHub null" style="" class="svelte-kwk3gn"> <div class="gradient svelte-kwk3gn" style=""></div></figure></div></div></main>
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <main class="svelte-12ravdr">
+                <div class="container svelte-12ravdr">
+                    <div class="layout svelte-1mi2fgi">
+                        <article class="svelte-1ahg0de">
+                            <div>
+                                <h2 class="svelte-v4w3mo">Create Your Maker Card</h2>
+                                <p class="svelte-v4w3mo">It doesn't matter if you've submitted a pull request, shared
+                                    your frustration or love of our
+                                    product, or recommended us to your peers, you all helped Appwrite reach this major
+                                    milestone.
+                                    This is why we want to list any of our community members who are interested along
+                                    side our
+                                    core team as makers.</p>
+                            </div>
+                        </article>
+                        <figure class="svelte-kwk3gn"><img id="maker" src="./f9d5eb64-74bf-4f64-b1ec-d37532337029.png"
+                                alt="GitHub null" style="" class="svelte-kwk3gn">
+                            <div class="gradient svelte-kwk3gn" style=""></div>
+                        </figure>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </foreignObject>
+</svg>
